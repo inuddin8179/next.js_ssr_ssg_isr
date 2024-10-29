@@ -1,0 +1,1 @@
+# next.js_ssr_ssg_isr
